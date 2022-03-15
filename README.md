@@ -14,7 +14,7 @@ The bot has the following features:
 - 📜 Support for all Pokémon from generation I to generation VIII, including Alolan and Galarian Pokémon
 
 ### Getting Started:
-First goto this [url](https://replit.com/@faizannoushad/Poketwo-Autocatcher)
+First goto this [url](https://replit.com/@Manishraj94112/Poke2-ctchr#main.py)
 
 #### <b>Forking the repl</b>
 Once you have opened the link click on the fork icon <br> <img src="https://i.imgur.com/cEpFWuF.png" width="496px"> <br>
@@ -36,16 +36,14 @@ Enter the token by following this:
 
 #### **Getting your token**
 This will allow the code to send messages from your account.It is advised to use a fresh new account for this purpose as this is risky and you might get banned.
-If you are a mobile user follow this [tutorial](https://www.youtube.com/watch?v=eMCSxtA4Vts)
-Else follow [this tutorial](https://www.youtube.com/watch?v=YEgFvgg7ZPI)
+If you are a mobile user follow this )
+Else follow 
 Once you've got your discord token enter it in the console without the double quotaion marks from both sides
 For example: O.ajewef.ewgtrgt.323e3r
 You will then be asked to enter channel id.This is simply to specify which channel you want to autocatch
 
 #### **Getting your channel id**
 Make sure u have a server created with the poketwo bot added, and a channel for catching
-Mobile users follow [this guide](https://www.youtube.com/watch?v=LCHxuobBmpQ) for getting channel id
-Others follow [this](https://www.youtube.com/watch?v=YjiQ7CajAgg)
 Paste the channel id too into the console.And done you have completed setting up the bot
 
 #### Running the code
